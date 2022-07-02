@@ -17,3 +17,5 @@ console.log(funny);
 
 let ages = [4, 5, 6, 7]
 console.log(ages[23]);
+
+
